@@ -1,2 +1,2 @@
 # Portfolio2
-This was made with a template Forked from bmorelli25/portfolio-template
+One page portfolio made completely with HTML and CSS
