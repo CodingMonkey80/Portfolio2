@@ -1,5 +1,5 @@
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   background: rgba(242, 242, 242, .6);
   margin: 0;
 }
@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #7a8ab8;
+  background-color: #31b0d5;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -35,7 +35,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
-  background: #4286f4; /*background color to blue*/
+  background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
