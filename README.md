@@ -1,2 +1,2 @@
 # Portfolio2
-One page portfolio made completely with HTML and CSS
+This is a one page portfolio made completely with HTML and CSS for freeCodeCamp
